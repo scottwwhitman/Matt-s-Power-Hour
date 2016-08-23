@@ -70,4 +70,6 @@ Something | Something Else |
 
 ### Questions?
 
-## What we expect for READMEs
+## What we expect for READMEs:
+
+Checkout this example: [README.md](https://github.com/sf-wdi-31/readme-example)
